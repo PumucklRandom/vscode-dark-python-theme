@@ -3,7 +3,7 @@
 	"name": "Dark Python Theme",
 	"type": "dark",
 	"colors": {
-        // Title Bar 
+        // Title Bar
         "titleBar.activeBackground": "#303030",
         "titleBar.inactiveBackground": "#252525",
         "titleBar.border": "#3A3A3A",
