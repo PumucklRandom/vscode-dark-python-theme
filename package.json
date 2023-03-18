@@ -1,15 +1,26 @@
 {
   "name": "dark-python-theme",
   "displayName": "Dark Python Theme",
-  "description": "Dark theme for python",
+  "description": "VSCode Dark Theme for Python",
   "version": "0.0.1",
   "license": "MIT",
+  "publisher": "pumucklrandom",
   "preview": true,
+  "extensionDependencies": [
+    "magicstack.magicpython"
+  ],
+  "repository": "https://github.com/PumucklRandom/vscode-dark-python-theme",
+  "icon": "images/icon.png",
   "engines": {
-    "vscode": "^1.75.0"
+    "vscode": "^1.21.0"
   },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "dark",
+    "python",
+    "theme"
   ],
   "contributes": {
     "themes": [
@@ -19,5 +30,16 @@
         "path": "./themes/dark-python-color-theme.json"
       }
     ]
+  },
+  "__metadata": {
+    "id": "",
+    "publisherId": "",
+    "publisherDisplayName": "PumucklRandom",
+    "targetPlatform": "undefined",
+    "isApplicationScoped": false,
+    "updated": false,
+    "isPreReleaseVersion": true,
+    "preRelease": true,
+    "installedTimestamp": 1676962378078
   }
 }
