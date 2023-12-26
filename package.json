@@ -7,7 +7,6 @@
   "publisher": "pumucklrandom",
   "preview": true,
   "extensionDependencies": [
-    "magicstack.magicpython"
   ],
   "repository": "https://github.com/PumucklRandom/vscode-dark-python-theme",
   "icon": "images/icon.png",
