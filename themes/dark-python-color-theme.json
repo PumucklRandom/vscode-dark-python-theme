@@ -40,7 +40,7 @@
         "editorInlayHint.typeBackground": "#1E1E1E",
         "editorInlayHint.typeForeground": "#0064FFA0",
         // bracket highlighting
-        "editorBracketMatch.background": "#000000",
+        "editorBracketMatch.background": "#000040",
         "editorBracketHighlight.foreground1": "#FADC00",
         "editorBracketHighlight.foreground2": "#00C800",
         "editorBracketHighlight.foreground3": "#0080FF",
