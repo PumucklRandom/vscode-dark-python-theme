@@ -520,7 +520,7 @@
             }
         },
         {   
-            // Pyton raw string overwrites regexp,
+            // Python raw string overwrites regexp,
             // because regexp color highlighting is not available in python
             "name": "Python raw string",
             "scope": [
