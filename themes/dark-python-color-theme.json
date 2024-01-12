@@ -655,5 +655,18 @@
 				"fontStyle": "underline",
 			}
 		},
+
+        // INI, CFG, TOML
+
+        {   
+            "name": "Section",
+            "scope": [
+                "entity.name.section.group-title.ini",
+                "meta.table.toml support.type.property-name.table.toml",
+            ],
+            "settings": {
+                "foreground": "#80C8C8",
+            }
+        },
 	]
 }
