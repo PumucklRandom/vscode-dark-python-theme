@@ -1,45 +1,45 @@
 {
-  "name": "dark-python-theme",
-  "displayName": "Dark Python Theme",
-  "description": "VSCode Dark Theme for Python",
-  "version": "0.0.1",
-  "license": "MIT",
-  "publisher": "pumucklrandom",
-  "preview": true,
-  "extensionDependencies": [
-    "ms-python.vscode-pylance"
-  ],
-  "repository": "https://github.com/PumucklRandom/vscode-dark-python-theme",
-  "icon": "images/icon.png",
-  "engines": {
-    "vscode": "^1.21.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "keywords": [
-    "dark",
-    "python",
-    "theme"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "Dark Python Theme",
-        "uiTheme": "vs-dark",
-        "path": "./themes/dark-python-color-theme.json"
-      }
-    ]
-  },
-  "__metadata": {
-    "id": "",
-    "publisherId": "",
-    "publisherDisplayName": "PumucklRandom",
-    "targetPlatform": "undefined",
-    "isApplicationScoped": false,
-    "updated": false,
-    "isPreReleaseVersion": true,
-    "preRelease": true,
-    "installedTimestamp": 1676962378078
-  }
+    "name": "dark-python-theme",
+    "displayName": "Dark Python Theme",
+    "description": "VSCode Dark Theme for Python",
+    "version": "0.0.2",
+    "license": "MIT",
+    "publisher": "pumucklrandom",
+    "preview": true,
+    "extensionDependencies": [
+        "ms-python.vscode-pylance"
+    ],
+    "repository": "https://github.com/PumucklRandom/vscode-dark-python-theme",
+    "icon": "images/icon.png",
+    "engines": {
+        "vscode": "^1.21.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "dark",
+        "python",
+        "theme"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark Python Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dark-python-color-theme.json"
+            }
+        ]
+    },
+    "__metadata": {
+        "id": "",
+        "publisherId": "",
+        "publisherDisplayName": "PumucklRandom",
+        "targetPlatform": "undefined",
+        "updated": false,
+        "preRelease": true,
+        "isPreReleaseVersion": true,
+        "isApplicationScoped": false,
+        "installedTimestamp": 1676962378078
+    }
 }
