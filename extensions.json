@@ -1,0 +1,27 @@
+[
+    {
+        "identifier": {
+            "id": "pumucklrandom.dark-python-theme"
+        },
+        "version": "0.0.2",
+        "location": {
+            "$mid": 1,
+            "path": "/c:/Users/Marlon/.vscode/extensions/pumucklrandom.dark-python-theme",
+            "scheme": "file"
+        },
+        "relativeLocation": "pumucklrandom.dark-python-theme",
+        "metadata": {
+            "id": "",
+            "publisherId": "",
+            "publisherDisplayName": "PumucklRandom",
+            "targetPlatform": "undefined",
+            "isApplicationScoope": false,
+            "updated": false,
+            "isPreReleaseVersion": true,
+            "preRelease": true,
+            "installedTimestamp": 1710326376989,
+            "hasPreReleaseVersion": true,
+            "isApplicationScoped": true
+        }
+    }
+]
