@@ -6,7 +6,7 @@
     "license": "MIT",
     "publisher": "pumucklrandom",
     "preview": true,
-    "extensionDependencies": [
+    "extensionPack": [
         "ms-python.vscode-pylance"
     ],
     "repository": "https://github.com/PumucklRandom/vscode-dark-python-theme",
